@@ -1,5 +1,5 @@
 """
-Create a phone directory with a external named phonebook.txt it'll have columns/variables
+Create a phone directory with an external named phonebook.txt it'll have columns/variables
 Name     Address     Phone Number
 
 Our program should be able to Create a new record of name, it should be able to update the record, also, it should be able
